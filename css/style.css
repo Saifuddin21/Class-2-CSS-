@@ -1,0 +1,38 @@
+div{
+   width: 700px;
+   font-size: 30px;
+    background-color: rgba(42, 22, 6, 0.824);
+    border-top-width: 10px;
+    padding: 20px 40px;
+    margin: auto;
+    border-top-color: rgba(8, 11, 1, 0.923);
+    border-top-style: solid;
+    border-bottom-width:30px;
+    border-bottom-color: blue;
+    border-bottom-style: dotted;
+    border-right-width:50px;
+}
+h1{
+    width: 500px;
+    font-size: smaller;
+    border-top: 20px antiquewhite dashed;
+    background-color: rgb(11, 192, 65);
+    border-bottom: 20px aqua solid;
+    border-left: yellow groove 40px;
+    border-right: 30px pink ridge;  
+}
+
+h2{
+    width: 500px;
+    font-size: x-large;
+    border: 20px ridge navy;
+    border-bottom: 10px outset #ddd;
+    margin: auto;
+    
+}
+h3{
+    border-top: 10px ridge red;
+    border-bottom: 17px inset orange;
+    border-left: 20px outset aqua;
+    border-right: 10px groove yellowgreen;
+}
